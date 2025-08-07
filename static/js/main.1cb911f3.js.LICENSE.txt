@@ -1,0 +1,67 @@
+/**
+ * @license React
+ * react-dom-client.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-dom.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+//!< % 단위 위치
+
+//!< ID 부여 (같은 단어 일때 검사필요)
+
+//!< WORD 에서 랜덤 단어 선택
+
+//!< effect clean-up : interval break
+
+//!< effect clean-up: interval break
+
+//!< 단어 생성
+
+//!< 입력한 값에서 화면 에 같은단어 있는지 검사(같은 단어 있을 때 먼저 만들어진거)
+
+//!< 화면에 같은 단어 나올수 있으니 단어 선택시 id부여
+
+//!< 화면에 보여지는 단어 state
